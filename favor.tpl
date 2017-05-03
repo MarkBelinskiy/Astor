@@ -1,0 +1,1 @@
+<b class="favorites_count">{favorites_count}</b>

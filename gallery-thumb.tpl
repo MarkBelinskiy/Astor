@@ -1,0 +1,1 @@
+<li {active}><a href="#preview0{count}"><img src="{thumb}" alt="Product"></a></li>
